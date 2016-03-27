@@ -1,4 +1,4 @@
-# sudoku-bu
+# sudoki-bi
 ####Tek 1 rush
 
 A rapid sudoku solver programmed in C.
